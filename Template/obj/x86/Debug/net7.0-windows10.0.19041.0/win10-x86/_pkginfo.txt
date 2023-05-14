@@ -1,0 +1,1 @@
+D:\Work\Template\bin\x86\Debug\net7.0-windows10.0.19041.0\win10-x86\AppPackages\Template_1.0.2.0_x86_Debug_Test\Template_1.0.2.0_x86_Debug.msix
