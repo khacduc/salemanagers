@@ -1,0 +1,40 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "Iphone 13",
+      "Category": "DT",
+      "Price": 800.0,
+      "Stock": 20,
+      "Image": "base64-encoded-image-data",
+      "tostring": "ID: 1 | Name: Iphone 13 | Category: DT | Price: 800 | Stock: 20"
+    },
+    {
+      "Id": 2,
+      "Name": "nice",
+      "Category": "sdadada",
+      "Price": 1999.0,
+      "Stock": 100,
+      "Image": "base64-encoded-image-data",
+      "tostring": "ID: 2 | Name: nice | Category: sdadada | Price: 1999 | Stock: 100"
+    },
+    {
+      "Id": 3,
+      "Name": "Iphone 14ProMax",
+      "Category": "DT",
+      "Price": 1500.0,
+      "Stock": 10,
+      "Image": null,
+      "tostring": "ID: 3 | Name: Iphone 14ProMax | Category: DT | Price: 1500 | Stock: 10"
+    },
+    {
+      "Id": 4,
+      "Name": "Ez",
+      "Category": "DT",
+      "Price": 900.0,
+      "Stock": 0,
+      "Image": null,
+      "tostring": "ID: 4 | Name: Ez | Category: DT | Price: 900 | Stock: 0"
+    }
+  ]
+}

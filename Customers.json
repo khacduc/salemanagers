@@ -1,0 +1,22 @@
+{
+  "Customers": [
+    {
+      "CustomerId": 17,
+      "Name": "12345",
+      "Email": "k co",
+      "PhoneNumber": "0000000",
+      "Image": null,
+      "getorder": "ID: 2 | Name: Order 2 | Date: 7/18/2026 | Item: Name: Product 3 | Count: 1",
+      "tostring": "CustomerId: 17 | Name: 12345 | Email: k co | PhoneNumber: 0000000"
+    },
+    {
+      "CustomerId": 20,
+      "Name": "ehhehe",
+      "Email": "dadadad",
+      "PhoneNumber": null,
+      "Image": null,
+      "getorder": "",
+      "tostring": "CustomerId: 20 | Name: ehhehe | Email: dadadad | PhoneNumber: "
+    }
+  ]
+}

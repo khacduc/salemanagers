@@ -1,0 +1,136 @@
+{
+  "Orders": [
+    {
+      "OrderItems": [
+        {
+          "Product": {
+            "Id": 1,
+            "Name": "Product 1",
+            "Category": "Category 1",
+            "Price": 10.99,
+            "Stock": 100,
+            "Image": "base64-encoded-image-data",
+            "tostring": "ID: 1 | Name: Product 1 | Category: Category 1 | Price: 10.99 | Stock: 100"
+          },
+          "Quantity": 2
+        },
+        {
+          "Product": {
+            "Id": 2,
+            "Name": "Product 2",
+            "Category": "Category 2",
+            "Price": 19.99,
+            "Stock": 50,
+            "Image": "base64-encoded-image-data",
+            "tostring": "ID: 2 | Name: Product 2 | Category: Category 2 | Price: 19.99 | Stock: 50"
+          },
+          "Quantity": 3
+        }
+      ],
+      "OrderId": 1,
+      "Name": "Order 1",
+      "Customer": {
+        "CustomerId": 2,
+        "Name": "ehehe",
+        "Email": "ehehe",
+        "PhoneNumber": "123131313131",
+        "Image": "",
+        "getorder": "ID: 1 | Name: Order 1 | Date: 5/1/2023 | Item: Name: Product 1 | Count: 2,Name: Product 2 | Count: 3, ID: 3 | Name:  | Date: 8/13/2023 | Item: Name: Iphone 13 | Count: 10,Name: nice | Count: 1,Name: Iphone 14ProMax | Count: 1",
+        "tostring": "CustomerId: 2 | Name: ehehe | Email: ehehe | PhoneNumber: 123131313131"
+      },
+      "tostring": "ID: 1 | Name: Order 1 | Date: 5/1/2023 | Item: Name: Product 1 | Count: 2,Name: Product 2 | Count: 3",
+      "CustumerToString": "ID: 2 Name: ehehe",
+      "OrderDate": "2023-05-01T10:30:00",
+      "OrderItemsToString": "Name: Product 1 | Count: 2,Name: Product 2 | Count: 3",
+      "TotalAmount": 81.95
+    },
+    {
+      "OrderItems": [
+        {
+          "Product": {
+            "Id": 3,
+            "Name": "Product 3",
+            "Category": "Category 1",
+            "Price": 15.99,
+            "Stock": 80,
+            "Image": "base64-encoded-image-data",
+            "tostring": "ID: 3 | Name: Product 3 | Category: Category 1 | Price: 15.99 | Stock: 80"
+          },
+          "Quantity": 1
+        }
+      ],
+      "OrderId": 2,
+      "Name": "Order 2",
+      "Customer": {
+        "CustomerId": 17,
+        "Name": "12345",
+        "Email": "k co",
+        "PhoneNumber": "0000000",
+        "Image": null,
+        "getorder": "ID: 2 | Name: Order 2 | Date: 7/18/2026 | Item: Name: Product 3 | Count: 1",
+        "tostring": "CustomerId: 17 | Name: 12345 | Email: k co | PhoneNumber: 0000000"
+      },
+      "tostring": "ID: 2 | Name: Order 2 | Date: 7/18/2026 | Item: Name: Product 3 | Count: 1",
+      "CustumerToString": "ID: 17 Name: 12345",
+      "OrderDate": "2026-07-18T22:49:58.0208462",
+      "OrderItemsToString": "Name: Product 3 | Count: 1",
+      "TotalAmount": 15.99
+    },
+    {
+      "OrderItems": [
+        {
+          "Product": {
+            "Id": 1,
+            "Name": "Iphone 13",
+            "Category": "DT",
+            "Price": 800.0,
+            "Stock": 20,
+            "Image": "base64-encoded-image-data",
+            "tostring": "ID: 1 | Name: Iphone 13 | Category: DT | Price: 800 | Stock: 20"
+          },
+          "Quantity": 10
+        },
+        {
+          "Product": {
+            "Id": 2,
+            "Name": "nice",
+            "Category": "sdadada",
+            "Price": 1999.0,
+            "Stock": 100,
+            "Image": "base64-encoded-image-data",
+            "tostring": "ID: 2 | Name: nice | Category: sdadada | Price: 1999 | Stock: 100"
+          },
+          "Quantity": 1
+        },
+        {
+          "Product": {
+            "Id": 3,
+            "Name": "Iphone 14ProMax",
+            "Category": "DT",
+            "Price": 1500.0,
+            "Stock": 10,
+            "Image": null,
+            "tostring": "ID: 3 | Name: Iphone 14ProMax | Category: DT | Price: 1500 | Stock: 10"
+          },
+          "Quantity": 1
+        }
+      ],
+      "OrderId": 3,
+      "Name": null,
+      "Customer": {
+        "CustomerId": 2,
+        "Name": "ehehe",
+        "Email": "ehehe",
+        "PhoneNumber": "123131313131",
+        "Image": "",
+        "getorder": "ID: 1 | Name: Order 1 | Date: 5/1/2023 | Item: Name: Product 1 | Count: 2,Name: Product 2 | Count: 3, ID: 3 | Name:  | Date: 8/13/2023 | Item: Name: Iphone 13 | Count: 10,Name: nice | Count: 1,Name: Iphone 14ProMax | Count: 1",
+        "tostring": "CustomerId: 2 | Name: ehehe | Email: ehehe | PhoneNumber: 123131313131"
+      },
+      "tostring": "ID: 3 | Name:  | Date: 8/13/2023 | Item: Name: Iphone 13 | Count: 10,Name: nice | Count: 1,Name: Iphone 14ProMax | Count: 1",
+      "CustumerToString": "ID: 2 Name: ehehe",
+      "OrderDate": "2023-08-13T22:51:52.9754312",
+      "OrderItemsToString": "Name: Iphone 13 | Count: 10,Name: nice | Count: 1,Name: Iphone 14ProMax | Count: 1",
+      "TotalAmount": 11499.0
+    }
+  ]
+}
