@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7qJq7yzn0jOWb4yUSK94EBqItkhOGeLdLiP9mVFp25SqNeuWmsgxTwFI7M5RFK9XuodYLVaUFyPZmO8FVDCcw==",
+  "dgSpecHash": "+PaseQcaWAkuXjgpNy2NBXHxi6gEmiOoZjcy7iUdsQw0uWb1buu5EfKld980yIT1k/z9zVJAWd/cjhTFPM4Nsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Template\\Template\\Template.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\salemanagers\\Template\\Template\\Template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\colorcode.core\\2.0.13\\colorcode.core.2.0.13.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\colorcode.winui\\2.0.13\\colorcode.winui.2.0.13.nupkg.sha512",

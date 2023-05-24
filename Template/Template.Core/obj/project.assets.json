@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Template\\Template.Core\\Template.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\salemanagers\\Template\\Template.Core\\Template.Core.csproj",
       "projectName": "Template.Core",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Template\\Template.Core\\Template.Core.csproj",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\salemanagers\\Template\\Template.Core\\Template.Core.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Template\\Template.Core\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\salemanagers\\Template\\Template.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

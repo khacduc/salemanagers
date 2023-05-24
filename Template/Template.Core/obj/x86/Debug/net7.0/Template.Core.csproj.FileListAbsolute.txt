@@ -10,3 +10,15 @@ C:\Users\ASUS\source\repos\Template\Template.Core\obj\x86\Debug\net7.0\Template.
 C:\Users\ASUS\source\repos\Template\Template.Core\obj\x86\Debug\net7.0\refint\Template.Core.dll
 C:\Users\ASUS\source\repos\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.pdb
 C:\Users\ASUS\source\repos\Template\Template.Core\obj\x86\Debug\net7.0\ref\Template.Core.dll
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\bin\x86\Debug\net7.0\Template.Core.deps.json
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\bin\x86\Debug\net7.0\Template.Core.dll
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\bin\x86\Debug\net7.0\Template.Core.pdb
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.dll
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\refint\Template.Core.dll
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\Template.Core.pdb
+C:\Users\ASUS\OneDrive\Documents\GitHub\salemanagers\Template\Template.Core\obj\x86\Debug\net7.0\ref\Template.Core.dll

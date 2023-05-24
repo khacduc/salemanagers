@@ -354,7 +354,7 @@ public class SalesManager
         if (Orders.ContainsKey(order.OrderId))
             return;
 
-        Orders.Add(order.OrderId, order);
+        Orders.Add(order.OrderId, order);     
     }
 
     //Huy don hang

@@ -2,6 +2,7 @@ using Helper;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 using SalesManagerCore;
+using Template.Core.Contracts.Services;
 using Template.Core.Models;
 using Template.ViewModels;
 using Windows.Storage.Pickers;
@@ -125,7 +126,9 @@ public sealed partial class DataGrid1Page : Page
                     {
                         if (Data.statistics.SalesManager.Products.ContainsKey(id))
                         {
-                            Data.statistics.SalesManager.Orders[current].OrderItems.Add(new Core.Models.OrderItem() { Product = Data.statistics.SalesManager.Products[id], Quantity = count });
+                            var orderitems = new Core.Models.OrderItem() { Product = Data.statistics.SalesManager.Products[id], Quantity = count };
+                            Data.statistics.SalesManager.Orders[current].OrderItems.Add(orderitems);
+                            Data.statistics.SalesManager.Products[orderitems.Product.Id].Stock -= count;
                         }
                     }
                 }
